@@ -24,6 +24,7 @@ https://khusil.github.io/khusil-portofolio/
 
 ## git hub url
 
+https://github.com/khusil/khusil-portofolio.git
 
 
 
