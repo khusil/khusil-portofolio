@@ -1,0 +1,63 @@
+body{
+    background-color: #ffe4c4;
+    color: black;
+    
+    
+}
+ 
+@media screen and (max-width: 768px){
+   header {color: red;}}
+
+
+.header {
+    text-decoration:dashed;
+    border: black solid;
+    border: 10px;
+    background-image: linear-gradient(90deg,red, blue);
+   
+}
+.header div ul li {
+    float:right;
+    padding: 10px;
+    margin: 10px;
+    border: black solid 5px;
+    font-family: 'Times New Roman', Times, serif;
+    flex-wrap:wrap;
+    background-image: linear-gradient(180deg,red, blue);
+    
+    
+}
+.img{
+    margin-top: 100px;
+    border: black solid;
+    height: 200px;
+    
+
+}
+.container{
+   
+    margin-left: 600px;
+    box-sizing: content-box;
+}
+    
+.container div {
+    
+    text-align:right;
+    margin-left: 500px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+ a:hover{
+    color: black;
+    background: white;
+    margin: 20px; 
+
+ }
+
+ 
+ .footer{
+    text-align: center;
+ }
+ 
+ 
